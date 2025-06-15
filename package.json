@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://github.com/divyashree2626/todolist",
   "dependencies": {
-    "gh-pages": "^6.3.0",
     "git": "^0.1.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -34,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
